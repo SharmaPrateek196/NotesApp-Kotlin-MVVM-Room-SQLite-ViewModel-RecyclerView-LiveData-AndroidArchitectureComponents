@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="preference_name">LoginSharedPreference</string>
+    <string name="google_client_id">331047996505-a632nqbl318ht6oth0smd2su5qmg697c.apps.googleusercontent.com</string>
+    <string name="google_client_secret">1g4k4Mhkpo0nFOuvWOZfLgbk</string>
+    <string name="welcome">Welcome</string>
+    <string name="welcome_back">Welcome Back</string>
+    <string name="empty_str"> </string>
+    <string name="enter_text_here">Enter Text Here...</string>
+    <string name="submit">Submit</string>
+    <string name="update">Update</string>
+    <string name="enter_some_text">Please Enter Some Text</string>
+    <string name="default_username">User</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">Save</string>
+    <string name="saved_success">Note Saved Successfully</string>
+    <string name="update_success">Note Saved Successfully</string>
+    <string name="sign_out">Sign-out</string>
+    <string name="success_sign_out">Signed-out Successfully</string>
+    <string name="failed_sign_out">Sign-out Failed</string>
+    <string name="title_notes">My Notes</string>
+    <string name="title_home">Log-In</string>
+    <string name="swipe_to_dlt">Swipe to delete || Click to update</string>
+</resources>

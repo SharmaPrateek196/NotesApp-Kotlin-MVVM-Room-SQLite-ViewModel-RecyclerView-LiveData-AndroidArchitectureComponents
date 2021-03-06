@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/background_pink"
+    tools:context=".ui.UpdateNoteFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+        <EditText
+            android:id="@+id/etUpdateNote"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/et_new_note_margin"
+            android:hint="@string/enter_text_here"
+            android:inputType="textMultiLine|textAutoCorrect"
+            android:padding="8dp"
+            android:scrollbars="vertical" />
+
+        <Button
+            android:id="@+id/btnUpdateSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/update"
+            android:textAllCaps="false"
+            android:layout_marginLeft="@dimen/submit_btn_left_right_margin"
+            android:layout_marginRight="@dimen/submit_btn_left_right_margin"
+            android:layout_marginBottom="@dimen/submit_btn_top_margin"
+            />
+
+    </LinearLayout>
+</ScrollView>

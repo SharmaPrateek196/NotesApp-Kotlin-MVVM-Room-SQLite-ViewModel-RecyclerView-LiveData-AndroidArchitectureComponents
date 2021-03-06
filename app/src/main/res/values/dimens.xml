@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rv_margin">12dp</dimen>
+    <dimen name="card_margin">2dp</dimen>
+    <dimen name="card_margin_top">4dp</dimen>
+    <dimen name="card_margin_bottom">8dp</dimen>
+    <dimen name="card_padding">2dp</dimen>
+    <dimen name="fab_margin">20dp</dimen>
+    <dimen name="et_new_note_margin">16dp</dimen>
+    <dimen name="et_new_note_padding">8dp</dimen>
+    <dimen name="submit_btn_left_right_margin">16dp</dimen>
+    <dimen name="submit_btn_top_margin">8dp</dimen>
+    <dimen name="note_text_size">18sp</dimen>
+    <dimen name="gsignin_btn_padding">2dp</dimen>
+    <dimen name="rv_margin_top">2dp</dimen>
+</resources>

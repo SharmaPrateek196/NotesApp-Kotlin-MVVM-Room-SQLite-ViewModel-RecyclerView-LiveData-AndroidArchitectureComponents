@@ -2,11 +2,13 @@
 
 It is a **Notes Taking** android application which is developed totally in *KOTLIN* language.
 
+ScreenRecording of Application - https://youtu.be/SRK6jo8A_0c
+
 <img src="images/a.jpg" width="220" height="400"> <img src="images/b.jpg" width="220" height="400"> <img src="images/c.jpg" width="220" height="400"> <img src="images/d.jpg" width="220" height="400"> <img src="images/e.jpg" width="220" height="400"> <img src="images/f.jpg" width="220" height="400">
 
 Following are some features of it -
 
-* Create, Update and Delete notes
+* Create, Update and Delete notes with **auto-correction**
 * **Delete** note by **Swiping the note in left/right** direction
 * Click on a note to **Update** it
 * Login using **Google**
